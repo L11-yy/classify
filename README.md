@@ -1,4 +1,4 @@
-![截图](){width=200}
+![截图](https://github.com/L11-yy/classify/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-01%20085606.png){width=200}
 # 核心实现
 class 邮件分类器:
     """支持双特征模式的朴素贝叶斯邮件分类器"""
